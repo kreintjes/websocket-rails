@@ -1,4 +1,4 @@
-require "redis/connection/synchrony"
+#require "redis/connection/synchrony" Removed redis synchrony require because it does not work on Windows
 require "redis"
 require "redis/connection/ruby"
 
