@@ -1,3 +1,3 @@
-require "websocket-rails"
+require "websocket-rails-windows"
 
 run WebsocketRails::ConnectionManager.new

@@ -9,7 +9,7 @@ require 'rspec/autorun'
 require 'thin'
 
 $:.push File.expand_path("../../lib", __FILE__)
-require 'websocket-rails'
+require 'websocket-rails-windows'
 
 # Requires supporting ruby files with custom matchers and macros, etc,
 # in spec/support/ and its subdirectories.

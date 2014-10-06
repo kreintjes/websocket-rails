@@ -18,7 +18,7 @@ module WebsocketRails
     end
 
     rake_tasks do
-      require 'websocket-rails'
+      require 'websocket-rails-windows'
       load 'rails/tasks/websocket_rails.tasks'
     end
 

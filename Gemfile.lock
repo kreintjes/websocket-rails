@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    websocket-rails (0.6.2)
+    websocket-rails-windows (0.6.2)
       em-synchrony
       faye-websocket
       hiredis
@@ -223,4 +223,4 @@ DEPENDENCIES
   therubyracer
   therubyrhino
   thin
-  websocket-rails!
+  websocket-rails-windows!
